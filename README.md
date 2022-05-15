@@ -12,3 +12,7 @@ for all the unique characters:
     calculate the sum of these two minimum values and assign it to the value of newNode
     insert this newNode into the tree
 return rootNode
+
+
+#Huffman-decoding
+this is written in C++, single file with main fundtion and other utils. We just need to execute the program.
